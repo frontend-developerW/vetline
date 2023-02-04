@@ -4,20 +4,136 @@
         "2": "Biz haqimizda",
         "3": "Foydali ma’lumotlar",
         "4": "Foydalanish shartlari",
-        "5": "Aloqa"
+        "5": "Aloqa",
+        "top": {
+            "1": "Mushuklar maxssus ovqati",
+            "2": "Hozirgi kundagi eng sifatli mushukchalar ozuqasi",
+            "3": " 100% tabiiy va to'yimli",
+            "4": "Uy hayvonlaringiz taomnomasidan zavqlanishi ta'minlaymiz!",
+            "5": "Xarid qilaman",
+            "6": "Batafsil",
+            "7": "Pastga tushuring"
+        },
+        "types": {
+            "1": "Hayvonlar uchun ozuqalar",
+            "2": "Hayvonlar uchun vitaminlar",
+            "3": " Veteraniya dorilari"
+        },
+        "feedback": {
+            "1": "fikr-mulohaza",
+            "2": "Wet-line iste'molidan avval",
+            "3": "Wet-line iste'molidan so'ng",
+            "4": "Neolit iste'molidan avval",
+            "5": "Neolit iste'molidan so'ng",
+            "6": "Necha kun davolanadi",
+            "7": "Necha kunda ta'sir qiladi"
+        },
+        "tops": "Top maxsulotlar",
+        "abouttitle": "Vetline veterinariya kompaniyasi",
+        "abouttext": "Vetline veterinariya kompaniyasi sizga nafaqat veterinariya mahsulotlarining yangi va sifatli assortimentini taqdim etadi. Ozuqa va vitaminlar sohasida ham ushbu sohada yetakchi hisoblanadi. Vetline kompaniyasi 2012. 'Vetline' veterinariya kompaniyasi sizga nafaqat veterinariya mahsulotlarining yangi va sifatli assortimentlarini taqdim etadi.Ozuqa va vitaminlar sohasida ham u ushbu sohada yetakchi hisoblanadi.Vetline 2012-yilda ishlab chiqarilgan.",
+        "more": "Kompaniya haqida batafsil",
+        "questions": "Savol va takliflar uchun",
+        "questions2": "Mahsulot, xizmatlar yoki hamkorlik masalalarida barcha savol, taklif va e'tirozlarni shu bo'limda yozib qoldirishingiz mumkin.",
+        "name": "Ismingiz",
+        "phone": "Telefon raqamingiz",
+        "send": "Yuborish",
+        "comment": "Fikringiz",
+        "address": "Manzil",
+        "typeproduct": "Maxsulot turi",
+        "writetelegram": "Telegramdan yozish",
+        "form": "FORMANI TO'LDIRING",
+        "top1": "'Wetline' xohlayman, qachon olib berasiz?"
     },
     "ru": {
         "1": "Продукты",
         "2": "О нас",
         "3": "Полезная информация",
         "4": "Условия использования",
-        "5": "Связь"
+        "5": "Связь",
+        "form": "ЗАПОЛНИТЕ ФОРМУ",
+
+        "top": {
+            "1": "Специальный корм для кошек",
+            "2": "Самый качественный корм для котят на сегодняшний день",
+            "3": "100% натуральный и питательный",
+            "4": "Мы позаботимся о том, чтобы вашим питомцам понравилось меню!",
+            "5": "Хочу купить",
+            "6": "Еще",
+            "7": "Спуститесь вниз"
+        },
+        "types": {
+            "1": "Корма для животных",
+            "2": "Витамины для животных",
+            "3": "Ветеринарные препараты"
+        },
+        "tops": "Лучшие товары",
+        "more": "Подробнее о компании",
+        "abouttitle": "Ветеринарическая компания “Vetline”",
+        "abouttext": "Ветеринарическая компания “Vetline” предоставляет вам новых и качественных ассортиментов в продукции ветеринарии и не только. В сфере Кормах и витаминах тоже является лидером в этом отраслей. Компания Vetline было производено в 2012 года. Ветеринарическая компания “Vetline” предоставляет вам новых и качественных ассортиментов в продукции ветеринарии и не только. В сфере Кормах и витаминах тоже является лидером в этом отраслей. Компания Vetline было производено в 2012 года.",
+        "questions": "Для вопросов и предложений",
+        "questions2": "В этом разделе вы можете написать все вопросы, предложения и возражения по товарам, услугам или сотрудничеству.",
+        "name": "Ваше имя",
+        "phone": "Ваш номер телефона",
+        "send": "Отправить",
+        "writetelegram": "Пишите из Телеграм",
+        "address": "Адрес",
+        "comment": "Комментарий",
+        "feedback": {
+            "1": "обратная связь",
+            "2": "Перед употреблением Wet-line",
+            "3": "После израсходования мокрой лески",
+            "4": "До неолитического потребления",
+            "5": "После неолитического потребления",
+            "6": "Сколько дней будет лечиться",
+            "7": "Сколько дней вступит в силу"
+        },
+        "typeproduct": "Тип продукт",
+        "top1": "Хочу 'Ветлайн', когда доставите?"
     },
     "en": {
         "1": "Our Products",
         "2": "About Us",
         "3": "Useful information",
         "4": "Terms of Use",
-        "5": "Contact"
+        "5": "Contact",
+        "form": "FILL THE FORM",
+
+        "top": {
+            "1": "Special cat food",
+            "2": "The best quality kitten food available today",
+            "3": "100% natural and nutritious",
+            "4": "We will ensure that your pets enjoy the menu!",
+            "5": "Purchase",
+            "6": "More",
+            "7": "Scroll to down"
+        },
+        "types": {
+            "1": "Feeds for animals",
+            "2": "Vitamins for animals",
+            "3": "Veterinary drugs"
+        },
+        "tops": "Top products",
+        "more": "More about the company",
+        "abouttitle": "Veterinary company “Vetline”",
+        "writetelegram": "Write from Telegram",
+        "abouttext": "The veterinary company 'Vetline' provides you with new and high-quality assortments in veterinary products and not only. In the field of Feed and vitamins, it is also a leader in this industry. The company Vetline was manufactured in 2012. The veterinary company 'Vetline' provides you new and high-quality ranges in veterinary products and not only. In the field of Feed and vitamins, it is also a leader in this industry. Vetline was manufactured in 2012.",
+        "questions": "For questions and suggestions",
+        "questions2": "You can write all questions, suggestions and objections in this section about products, services or cooperation.",
+        "name": "Your Name",
+        "phone": "Your phone number",
+        "send": "Send",
+        "comment": "Comment",
+        "typeproduct": "Product Type",
+        "address": "Address",
+        "feedback": {
+            "1": "feedback",
+            "2": "Before consuming Wet-line",
+            "3": "After consumption of wet-line",
+            "4": "Before Neolithic consumption",
+            "5": "After Neolithic consumption",
+            "6": "How many days will be treated",
+            "7": "How many days will it take effect"
+        },
+        "top1": "I want 'Wetline', when will you deliver?"
     }
 }
